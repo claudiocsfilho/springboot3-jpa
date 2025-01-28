@@ -1,7 +1,5 @@
 package com.educandoweb.course.resources;
 
-import java.net.ResponseCache;
-
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
